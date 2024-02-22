@@ -1,4 +1,4 @@
-### Hello! My name is Andrew and i'm a beginning java-developer 👋
+### Hello! My name is Andrew and i'm a java-developer 👋
 
 - I am currently completing my studies in the java-developer program at the Hexlet programming school.
 - English language proficiency: B1.
