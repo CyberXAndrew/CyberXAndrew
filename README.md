@@ -6,7 +6,7 @@
 
 ### My tech stack:
 ![Static Badge](https://img.shields.io/badge/JAVA-red?style=for-the-badge&color=FF4500)
-![Static Badge](https://img.shields.io/badge/Spring Boot-green?style=for-the-badge&logo=spring boot&logoColor=%2351CBBF&color=%2302303A)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring_boot&logoColor=%2351CBBF&color=%2302303A)
 ![Static Badge](https://img.shields.io/badge/GRADLE-blue?style=for-the-badge&logo=gradle&logoColor=%2351CBBF&color=%2302303A)
 ![Static Badge](https://img.shields.io/badge/postgresql-main?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
