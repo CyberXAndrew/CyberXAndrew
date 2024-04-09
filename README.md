@@ -1,20 +1,23 @@
 ### Hello! My name is Andrew and i'm a java-developer 👋
 
-- I am currently completing my studies in the java-developer program at the Hexlet programming school.
+- Graduated from the java developer profession in Hexlet programming school [Link to profile](https://ru.hexlet.io/u/cyberxandrew).
 - English language proficiency: B1.
 - Higher education.
+- 🌱 I’m currently learning Spring Boot.
 
 ### My tech stack:
 ![Static Badge](https://img.shields.io/badge/JAVA-7FB841?style=for-the-badge&logoWidth=200&color=7FB841)
-![Static Badge](https://img.shields.io/badge/SPRING_BOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%236DB33F&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/GRADLE-white?style=for-the-badge&logo=gradle&logoColor=black&color=%23FFDC33)
+![Static Badge](https://img.shields.io/badge/MAVEN-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20idea-%23FFDC33?style=for-the-badge&logo=intellij%20IDEA&logoColor=black&color=%23FFCE33)
 ![Static Badge](https://img.shields.io/badge/postgresql-main?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
-
-
+![Static Badge](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Contact me:
 E-mail: royalxxx@yandex.ru
@@ -33,18 +36,10 @@ E-mail: royalxxx@yandex.ru
 
 <a href="https://github.com/CyberXAndrew" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberXAndrew&langs_count=10&title_color=f97316&text_color=0f172a&icon_color=84cc16&bg_color=FDFEFE&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
 ![](https://komarev.com/ghpvc/?username=CyberXAndrew&color=brightgreen&style=for-the-badge&label=VISITORS)
-
-
-
-
 
 <!--
 **CyberXAndrew/CyberXAndrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-f97316
-84cc16
 
 Here are some ideas to get you started:
 
