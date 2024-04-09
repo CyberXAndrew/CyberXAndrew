@@ -10,7 +10,6 @@
 
 ![Static Badge](https://img.shields.io/badge/GRADLE-white?style=for-the-badge&logo=gradle&logoColor=black&color=%23FFDC33)
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20idea-%23FFDC33?style=for-the-badge&logo=intellij%20IDEA&logoColor=black&color=%23FFCE33)
-
 ![Static Badge](https://img.shields.io/badge/postgresql-main?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
