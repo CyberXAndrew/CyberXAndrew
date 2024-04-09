@@ -5,13 +5,16 @@
 - Higher education.
 
 ### My tech stack:
-![Static Badge](https://img.shields.io/badge/JAVA-red?style=for-the-badge&color=FF4500)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring_boot&logoColor=%2351CBBF&color=%2302303A)
-![Static Badge](https://img.shields.io/badge/GRADLE-blue?style=for-the-badge&logo=gradle&logoColor=%2351CBBF&color=%2302303A)
+![Static Badge](https://img.shields.io/badge/JAVA-7FB841?style=for-the-badge&logoWidth=200&color=7FB841)
+![Static Badge](https://img.shields.io/badge/SPRING_BOOT-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%236DB33F&labelColor=white)
+
+![Static Badge](https://img.shields.io/badge/GRADLE-white?style=for-the-badge&logo=gradle&logoColor=black&color=%23FFDC33)
+![Static Badge](https://img.shields.io/badge/IntelliJ%20idea-%23FFDC33?style=for-the-badge&logo=intellij%20IDEA&logoColor=black&color=%23FFCE33)
+
 ![Static Badge](https://img.shields.io/badge/postgresql-main?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/junit-%23FDEBD0?style=for-the-badge&logo=junit5&logoColor=white&color=%2325A162)
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
-![Static Badge](https://img.shields.io/badge/IntelliJ%20idea-black?style=for-the-badge&logo=intellij%20IDEA&logoColor=white&color=%23000000)
+
 
 
 ### Contact me:
